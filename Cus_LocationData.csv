@@ -1,0 +1,808 @@
+Cus_ID,Country,State,City,Region,Street
+C0001,Libya,Tripoli,Bab Tajura,Region 3,Street 5
+C0002,Algeria,Blida,Soumaa,Region 10,Street 9
+C0003,Algeria,Annaba,Chetma,Region 4,Street 4
+C0004,Algeria,Annaba,Sidi Amar,Region 8,Street 6
+C0005,Egypt,Aswan,Kom Ombo,Region 10,Street 8
+C0006,Tunisia,Gabes,Gabes Sud,Region 4,Street 1
+C0007,Algeria,Annaba,El Bouni,Region 1,Street 2
+C0008,Libya,Bayda,Al-Qasr,Region 8,Street 10
+C0009,Morocco,Fes,Fes Jdid,Region 2,Street 4
+C0010,Tunisia,Kairouan,Medina,Region 9,Street 6
+C0011,Tunisia,Sfax,Sakiet Eddaier,Region 7,Street 8
+C0012,Algeria,Oran,Bir El Djir,Region 6,Street 8
+C0013,Tunisia,Gabes,Metouia,Region 9,Street 7
+C0014,Libya,Misrata,Industrial Zone,Region 5,Street 7
+C0015,Libya,Zliten,Al-Sahil,Region 10,Street 2
+C0016,Libya,Tobruk,Al-Sahil,Region 6,Street 4
+C0017,Tunisia,Gabes,Gabes Sud,Region 6,Street 2
+C0018,Libya,Tobruk,Al-Sahil,Region 10,Street 2
+C0019,Tunisia,Gabes,Metouia,Region 10,Street 2
+C0020,Egypt,Aswan,Abu Simbel,Region 7,Street 3
+C0021,Algeria,Blida,Benkhelifa,Region 6,Street 7
+C0022,Morocco,Marrakech,Massira,Region 3,Street 6
+C0023,Tunisia,Tunis,Carthage,Region 10,Street 5
+C0024,Morocco,Marrakech,Medina,Region 9,Street 7
+C0025,Tunisia,Gabes,Gabes Sud,Region 1,Street 9
+C0026,Morocco,Fes,Fes Jdid,Region 2,Street 5
+C0027,Algeria,Blida,Benkhelifa,Region 9,Street 7
+C0028,Egypt,Cairo,Maadi,Region 2,Street 8
+C0029,Morocco,Marrakech,Medina,Region 5,Street 4
+C0030,Morocco,Rabat,Agdal,Region 6,Street 2
+C0031,Algeria,Batna,Ali Mendjeli,Region 5,Street 10
+C0032,Algeria,Algiers,Hydra,Region 1,Street 8
+C0033,Egypt,Port Said,Port Said City,Region 6,Street 3
+C0034,Libya,Benghazi,Sorman,Region 7,Street 3
+C0035,Libya,Bayda,Al-Madina,Region 9,Street 2
+C0036,Tunisia,Gabes,Gabes Ville,Region 10,Street 5
+C0037,Egypt,Giza,Dokki,Region 8,Street 7
+C0038,Tunisia,Bizerte,Menzel Bourguiba,Region 2,Street 4
+C0039,Morocco,Casablanca,Hay Hassani,Region 5,Street 10
+C0040,Tunisia,Gabes,Gabes Sud,Region 10,Street 7
+C0041,Egypt,Ismailia,Fayed,Region 5,Street 1
+C0042,Morocco,Marrakech,Massira,Region 3,Street 5
+C0043,Morocco,Marrakech,Medina,Region 7,Street 10
+C0044,Libya,Tripoli,Janzour,Region 4,Street 2
+C0045,Libya,Bayda,Al-Qasr,Region 2,Street 10
+C0045,Tunisia,Gabes,Gabes Sud,Region 3,Street 2
+C0046,Morocco,Casablanca,Sidi Moumen,Region 9,Street 1
+C0047,Tunisia,Sousse,Msaken,Region 5,Street 6
+C0048,Algeria,Batna,Tazoult,Region 6,Street 1
+C0049,Morocco,Rabat,Souissi,Region 10,Street 9
+C0050,Tunisia,Bizerte,Medina,Region 1,Street 7
+C0051,Libya,Bayda,Al-Qasr,Region 8,Street 2
+C0052,Morocco,Fes,Fes Jdid,Region 10,Street 5
+C0053,Libya,Zliten,Al-Jadida,Region 3,Street 9
+C0054,Tunisia,Gabes,Gabes Ville,Region 1,Street 2
+C0055,Libya,Zliten,Al-Sahil,Region 4,Street 10
+C0056,Algeria,Algiers,Kouba,Region 5,Street 7
+C0057,Tunisia,Gabes,Metouia,Region 8,Street 6
+C0058,Tunisia,Tunis,Bab Souika,Region 8,Street 10
+C0059,Algeria,Algiers,Kouba,Region 1,Street 8
+C0060,Libya,Benghazi,Sorman,Region 4,Street 8
+C0061,Egypt,Suez,Suez City,Region 4,Street 9
+C0062,Tunisia,Sfax,Sakiet Ezzit,Region 3,Street 3
+C0063,Tunisia,Tunis,El Manar,Region 3,Street 3
+C0064,Libya,Tobruk,Al-Madina,Region 10,Street 5
+C0065,Tunisia,Bizerte,Menzel Bourguiba,Region 5,Street 3
+C0066,Algeria,Blida,Benkhelifa,Region 8,Street 8
+C0067,Egypt,Suez,Suez City,Region 10,Street 1
+C0068,Egypt,Suez,Ataka District,Region 10,Street 4
+C0069,Libya,Zliten,Al-Madina,Region 7,Street 6
+C0070,Morocco,Agadir,Hay Salam,Region 6,Street 8
+C0071,Morocco,Casablanca,Derb Ghallef,Region 4,Street 4
+C0072,Tunisia,Kairouan,Haffouz,Region 3,Street 9
+C0073,Egypt,Luxor,Armant,Region 9,Street 1
+C0074,Morocco,Marrakech,Massira,Region 5,Street 7
+C0075,Libya,Zliten,Al-Madina,Region 3,Street 8
+C0076,Libya,Benghazi,Madinet Al-Shuhada,Region 5,Street 1
+C0077,Tunisia,Sousse,Msaken,Region 7,Street 2
+C0078,Algeria,Annaba,Chetma,Region 9,Street 1
+C0079,Egypt,Cairo,Nasr City,Region 1,Street 8
+C0080,Tunisia,Tunis,La Marsa,Region 3,Street 5
+C0081,Tunisia,Sousse,Msaken,Region 9,Street 4
+C0082,Egypt,Cairo,Nasr City,Region 6,Street 3
+C0083,Tunisia,Tunis,Bab Souika,Region 2,Street 9
+C0084,Algeria,Blida,Soumaa,Region 4,Street 7
+C0085,Morocco,Fes,Zouagha,Region 3,Street 5
+C0086,Morocco,Agadir,Talborjt,Region 3,Street 3
+C0087,Morocco,Marrakech,Medina,Region 1,Street 9
+C0088,Tunisia,Tunis,Carthage,Region 2,Street 10
+C0089,Libya,Tobruk,Al-Sahil,Region 7,Street 7
+C0089,Tunisia,Tunis,Bab Souika,Region 2,Street 8
+C0090,Algeria,Annaba,El Bouni,Region 10,Street 5
+C0091,Egypt,Giza,October,Region 2,Street 7
+C0092,Libya,Zliten,Al-Sahil,Region 8,Street 10
+C0093,Algeria,Batna,Ali Mendjeli,Region 8,Street 4
+C0094,Algeria,Constantine,Didouche Mourad,Region 8,Street 1
+C0095,Algeria,Blida,Benkhelifa,Region 2,Street 6
+C0096,Tunisia,Sousse,Riad Ettahrir,Region 10,Street 5
+C0097,Egypt,Port Said,Zohour District,Region 9,Street 4
+C0098,Libya,Tobruk,Al-Madina,Region 9,Street 7
+C0099,Egypt,Port Said,Zohour District,Region 9,Street 3
+C0100,Egypt,Aswan,Elephantine,Region 9,Street 9
+C0101,Morocco,Rabat,Agdal,Region 10,Street 5
+C0102,Tunisia,Bizerte,Ras Jebel,Region 1,Street 3
+C0103,Tunisia,Tunis,La Marsa,Region 1,Street 8
+C0104,Morocco,Tangier,Tanger City Center,Region 2,Street 9
+C0105,Libya,Zliten,Al-Madina,Region 9,Street 6
+C0106,Libya,Misrata,Old City,Region 4,Street 7
+C0107,Algeria,Algiers,El Madania,Region 5,Street 6
+C0108,Egypt,Alexandria,Miami,Region 4,Street 3
+C0109,Morocco,Tangier,Medina,Region 1,Street 8
+C0110,Algeria,Constantine,El Kantara,Region 9,Street 2
+C0111,Tunisia,Kairouan,Medina,Region 5,Street 9
+C0112,Tunisia,Kairouan,Haffouz,Region 4,Street 2
+C0113,Libya,Bayda,Al-Qasr,Region 2,Street 6
+C0114,Egypt,Suez,Ataka District,Region 8,Street 2
+C0115,Morocco,Casablanca,Sidi Moumen,Region 9,Street 2
+C0116,Tunisia,Gabes,Gabes Sud,Region 4,Street 2
+C0117,Tunisia,Gabes,Gabes Sud,Region 7,Street 3
+C0118,Tunisia,Sousse,Msaken,Region 10,Street 10
+C0119,Libya,Tripoli,Downtown,Region 2,Street 2
+C0120,Egypt,Cairo,Nasr City,Region 10,Street 2
+C0121,Algeria,Constantine,Beni Hamidane,Region 3,Street 9
+C0122,Egypt,Giza,Mohandessin,Region 8,Street 2
+C0123,Morocco,Rabat,Hay Riad,Region 3,Street 7
+C0124,Libya,Tripoli,Downtown,Region 10,Street 6
+C0125,Tunisia,Bizerte,Ras Jebel,Region 3,Street 10
+C0126,Morocco,Agadir,Dakhla,Region 7,Street 1
+C0127,Morocco,Rabat,Hay Riad,Region 5,Street 6
+C0128,Egypt,Cairo,Heliopolis,Region 3,Street 7
+C0129,Libya,Tobruk,Al-Sahil,Region 6,Street 4
+C0130,Egypt,Suez,Ataka District,Region 2,Street 7
+C0131,Libya,Bayda,Al-Jamaa,Region 10,Street 4
+C0132,Morocco,Rabat,Agdal,Region 3,Street 8
+C0133,Tunisia,Kairouan,Haffouz,Region 6,Street 2
+C0134,Algeria,Algiers,Hydra,Region 6,Street 10
+C0135,Libya,Misrata,Old City,Region 3,Street 1
+C0136,Algeria,Oran,Centre Ville,Region 9,Street 8
+C0137,Morocco,Rabat,Hay Riad,Region 6,Street 5
+C0138,Egypt,Suez,Arbaeen District,Region 8,Street 5
+C0139,Libya,Benghazi,Madinet Al-Shuhada,Region 8,Street 9
+C0140,Algeria,Constantine,El Kantara,Region 8,Street 9
+C0141,Egypt,Giza,Mohandessin,Region 8,Street 7
+C0142,Algeria,Oran,Gdyel,Region 3,Street 2
+C0143,Morocco,Rabat,Agdal,Region 7,Street 2
+C0144,Algeria,Batna,Menaa,Region 3,Street 5
+C0145,Libya,Tobruk,Al-Sahil,Region 8,Street 8
+C0146,Libya,Tobruk,Al-Sahil,Region 9,Street 3
+C0147,Algeria,Oran,Bir El Djir,Region 5,Street 4
+C0148,Tunisia,Bizerte,Medina,Region 3,Street 7
+C0149,Morocco,Rabat,Souissi,Region 6,Street 10
+C0150,Morocco,Tangier,Medina,Region 7,Street 9
+C0151,Morocco,Fes,Zouagha,Region 7,Street 5
+C0152,Libya,Tripoli,Souq al-Juma,Region 5,Street 10
+C0153,Morocco,Tangier,Tanger City Center,Region 6,Street 9
+C0154,Tunisia,Sousse,Riad Ettahrir,Region 8,Street 10
+C0155,Libya,Tobruk,Al-Sahil,Region 9,Street 9
+C0156,Morocco,Agadir,Hay Salam,Region 9,Street 3
+C0157,Libya,Tripoli,Janzour,Region 2,Street 10
+C0158,Algeria,Oran,Bir El Djir,Region 7,Street 2
+C0159,Egypt,Luxor,Luxor City,Region 6,Street 6
+C0160,Morocco,Fes,Fes el-Bali,Region 2,Street 8
+C0161,Libya,Tobruk,Al-Madina,Region 9,Street 1
+C0162,Tunisia,Bizerte,Menzel Bourguiba,Region 10,Street 7
+C0163,Libya,Misrata,Airport District,Region 9,Street 8
+C0164,Libya,Tobruk,Al-Madina,Region 8,Street 9
+C0165,Tunisia,Kairouan,Haffouz,Region 6,Street 7
+C0166,Egypt,Giza,Imbaba,Region 9,Street 4
+C0167,Egypt,Port Said,Attarin District,Region 9,Street 4
+C0168,Tunisia,Sfax,Old City,Region 5,Street 7
+C0169,Tunisia,Bizerte,Medina,Region 4,Street 9
+C0170,Morocco,Marrakech,Hivernage,Region 2,Street 2
+C0171,Tunisia,Tunis,Bab Souika,Region 2,Street 6
+C0172,Libya,Tobruk,Al-Madina,Region 2,Street 7
+C0173,Algeria,Algiers,Hydra,Region 3,Street 10
+C0174,Tunisia,Kairouan,Medina,Region 5,Street 10
+C0175,Libya,Bayda,Al-Qasr,Region 7,Street 8
+C0176,Algeria,Blida,Centre Ville,Region 5,Street 3
+C0177,Egypt,Aswan,Edfu,Region 3,Street 9
+C0178,Tunisia,Tunis,La Marsa,Region 3,Street 8
+C0179,Tunisia,Sfax,Old City,Region 5,Street 7
+C0180,Algeria,Oran,Bir El Djir,Region 4,Street 6
+C0181,Egypt,Cairo,Heliopolis,Region 9,Street 5
+C0182,Libya,Zliten,Al-Sahil,Region 7,Street 8
+C0183,Morocco,Agadir,Anahda,Region 4,Street 9
+C0184,Algeria,Annaba,Sidi Amar,Region 2,Street 2
+C0185,Algeria,Constantine,Beni Hamidane,Region 4,Street 6
+C0186,Libya,Tobruk,Al-Madina,Region 6,Street 2
+C0187,Libya,Zliten,Al-Sahil,Region 2,Street 4
+C0188,Algeria,Batna,Ali Mendjeli,Region 7,Street 4
+C0189,Algeria,Blida,Benkhelifa,Region 4,Street 2
+C0190,Egypt,Ismailia,Fayed,Region 8,Street 7
+C0191,Morocco,Marrakech,Massira,Region 7,Street 2
+C0192,Algeria,Constantine,Beni Hamidane,Region 10,Street 4
+C0193,Tunisia,Bizerte,Ras Jebel,Region 7,Street 9
+C0194,Tunisia,Sfax,Sakiet Eddaier,Region 10,Street 2
+C0195,Algeria,Constantine,Beni Hamidane,Region 6,Street 10
+C0196,Tunisia,Bizerte,Medina,Region 9,Street 4
+C0197,Tunisia,Sfax,Sakiet Ezzit,Region 10,Street 5
+C0198,Egypt,Luxor,Armant,Region 5,Street 7
+C0199,Tunisia,Kairouan,Medina,Region 7,Street 7
+C0200,Tunisia,Tunis,Carthage,Region 1,Street 6
+C0201,Morocco,Fes,Zouagha,Region 3,Street 9
+C0202,Egypt,Ismailia,Qantara,Region 5,Street 4
+C0203,Morocco,Marrakech,Massira,Region 9,Street 10
+C0204,Libya,Bayda,Al-Qasr,Region 3,Street 7
+C0205,Algeria,Batna,Menaa,Region 2,Street 2
+C0206,Algeria,Blida,Centre Ville,Region 1,Street 1
+C0207,Libya,Zliten,Al-Jadida,Region 3,Street 10
+C0208,Egypt,Alexandria,Somouha,Region 4,Street 10
+C0209,Egypt,Cairo,Mohandessin,Region 7,Street 4
+C0210,Algeria,Oran,Centre Ville,Region 1,Street 4
+C0211,Morocco,Fes,Zouagha,Region 4,Street 9
+C0212,Tunisia,Bizerte,Ras Jebel,Region 3,Street 6
+C0213,Tunisia,Kairouan,Chebika,Region 8,Street 1
+C0214,Morocco,Rabat,Hay Riad,Region 3,Street 5
+C0215,Morocco,Fes,Fes el-Bali,Region 9,Street 1
+C0216,Egypt,Cairo,Maadi,Region 8,Street 2
+C0217,Tunisia,Bizerte,Menzel Bourguiba,Region 9,Street 5
+C0218,Libya,Bayda,Al-Qasr,Region 7,Street 2
+C0219,Tunisia,Kairouan,Chebika,Region 7,Street 7
+C0220,Algeria,Annaba,El Bouni,Region 3,Street 6
+C0221,Tunisia,Gabes,Gabes Sud,Region 5,Street 3
+C0222,Morocco,Rabat,Hay Riad,Region 8,Street 7
+C0223,Egypt,Alexandria,Roushdy,Region 5,Street 5
+C0224,Libya,Misrata,Airport District,Region 1,Street 3
+C0225,Libya,Benghazi,Sorman,Region 8,Street 7
+C0227,Morocco,Agadir,Hay Salam,Region 8,Street 9
+C0228,Algeria,Constantine,Didouche Mourad,Region 8,Street 9
+C0229,Algeria,Oran,Centre Ville,Region 4,Street 10
+C0230,Morocco,Casablanca,Sidi Moumen,Region 5,Street 2
+C0231,Algeria,Constantine,Beni Hamidane,Region 5,Street 5
+C0232,Morocco,Rabat,Hay Riad,Region 7,Street 4
+C0233,Egypt,Luxor,Esna,Region 3,Street 1
+C0234,Morocco,Tangier,Tanger City Center,Region 4,Street 3
+C0235,Algeria,Blida,Soumaa,Region 6,Street 9
+C0236,Libya,Bayda,Al-Jamaa,Region 4,Street 1
+C0237,Morocco,Tangier,Medina,Region 4,Street 2
+C0238,Egypt,Giza,Mohandessin,Region 7,Street 5
+C0239,Egypt,Luxor,Esna,Region 5,Street 2
+C0240,Algeria,Batna,Tazoult,Region 9,Street 3
+C0241,Algeria,Constantine,El Kantara,Region 7,Street 9
+C0242,Algeria,Algiers,Bab El Oued,Region 6,Street 7
+C0243,Algeria,Oran,Gdyel,Region 4,Street 4
+C0244,Tunisia,Sousse,Msaken,Region 7,Street 5
+C0245,Libya,Zliten,Al-Madina,Region 6,Street 3
+C0247,Algeria,Algiers,El Madania,Region 5,Street 8
+C0248,Tunisia,Kairouan,Chebika,Region 3,Street 5
+C0249,Algeria,Oran,Centre Ville,Region 10,Street 7
+C0250,Libya,Tobruk,Al-Sahil,Region 7,Street 6
+C0251,Libya,Misrata,Industrial Zone,Region 4,Street 5
+C0252,Morocco,Tangier,Tanger City Center,Region 3,Street 3
+C0253,Tunisia,Tunis,Bab Souika,Region 7,Street 4
+C0254,Tunisia,Sfax,Sakiet Eddaier,Region 8,Street 9
+C0255,Egypt,Aswan,Kom Ombo,Region 9,Street 3
+C0256,Egypt,Alexandria,Miami,Region 6,Street 3
+C0257,Egypt,Suez,Ataka District,Region 9,Street 10
+C0258,Libya,Zliten,Al-Jadida,Region 7,Street 4
+C0259,Libya,Zliten,Al-Sahil,Region 1,Street 2
+C0260,Morocco,Tangier,Cap Spartel,Region 8,Street 7
+C0261,Libya,Benghazi,Al-Fateh,Region 2,Street 4
+C0262,Morocco,Agadir,Dakhla,Region 8,Street 5
+C0263,Morocco,Fes,Fes el-Bali,Region 4,Street 9
+C0264,Algeria,Annaba,Chetma,Region 2,Street 5
+C0265,Egypt,Suez,Ataka District,Region 2,Street 4
+C0266,Libya,Tripoli,Janzour,Region 1,Street 7
+C0267,Algeria,Constantine,El Kantara,Region 10,Street 7
+C0268,Algeria,Oran,Gdyel,Region 9,Street 3
+C0269,Morocco,Marrakech,Medina,Region 4,Street 5
+C0270,Morocco,Casablanca,Derb Ghallef,Region 3,Street 4
+C0271,Libya,Benghazi,Madinet Al-Shuhada,Region 8,Street 1
+C0272,Algeria,Annaba,Sidi Amar,Region 9,Street 6
+C0273,Egypt,Suez,Suez City,Region 5,Street 9
+C0274,Tunisia,Bizerte,Menzel Bourguiba,Region 8,Street 7
+C0275,Algeria,Annaba,Chetma,Region 1,Street 5
+C0276,Egypt,Port Said,Port Said City,Region 10,Street 2
+C0277,Tunisia,Sousse,Riad Ettahrir,Region 3,Street 9
+C0278,Tunisia,Gabes,Gabes Sud,Region 10,Street 4
+C0279,Tunisia,Sousse,Msaken,Region 9,Street 9
+C0280,Tunisia,Tunis,El Manar,Region 10,Street 6
+C0281,Libya,Benghazi,Madinet Al-Shuhada,Region 5,Street 8
+C0282,Morocco,Agadir,Hay Salam,Region 8,Street 2
+C0283,Tunisia,Bizerte,Ras Jebel,Region 7,Street 2
+C0284,Morocco,Fes,Fes el-Bali,Region 5,Street 7
+C0285,Algeria,Annaba,Sidi Amar,Region 7,Street 1
+C0286,Algeria,Annaba,Chetma,Region 10,Street 8
+C0287,Egypt,Suez,Suez City,Region 6,Street 3
+C0288,Tunisia,Tunis,Carthage,Region 1,Street 3
+C0290,Tunisia,Gabes,Gabes Sud,Region 5,Street 8
+C0291,Morocco,Fes,Fes el-Bali,Region 3,Street 4
+C0292,Morocco,Casablanca,Hay Hassani,Region 9,Street 7
+C0293,Morocco,Rabat,Takaddoum,Region 4,Street 3
+C0294,Libya,Tripoli,Souq al-Juma,Region 6,Street 1
+C0295,Libya,Misrata,Old City,Region 6,Street 1
+C0296,Algeria,Blida,Centre Ville,Region 1,Street 7
+C0297,Libya,Tripoli,Bab Tajura,Region 10,Street 9
+C0298,Libya,Benghazi,Al-Hawari,Region 3,Street 6
+C0299,Egypt,Alexandria,Stanley,Region 10,Street 1
+C0300,Egypt,Alexandria,Asafra,Region 1,Street 4
+C0301,Algeria,Batna,Tazoult,Region 10,Street 2
+C0302,Libya,Bayda,Al-Madina,Region 4,Street 2
+C0303,Egypt,Suez,Arbaeen District,Region 10,Street 10
+C0304,Libya,Misrata,Old City,Region 2,Street 4
+C0305,Algeria,Blida,Benkhelifa,Region 3,Street 2
+C0306,Egypt,Luxor,Luxor City,Region 4,Street 8
+C0307,Algeria,Blida,Soumaa,Region 10,Street 3
+C0308,Algeria,Algiers,Kouba,Region 9,Street 10
+C0309,Libya,Bayda,Al-Madina,Region 9,Street 1
+C0310,Algeria,Oran,Bir El Djir,Region 7,Street 3
+C0311,Libya,Bayda,Al-Madina,Region 7,Street 3
+C0312,Algeria,Algiers,Bab El Oued,Region 5,Street 7
+C0313,Algeria,Blida,Soumaa,Region 5,Street 9
+C0314,Algeria,Oran,Es Senia,Region 5,Street 1
+C0315,Egypt,Alexandria,Asafra,Region 5,Street 8
+C0316,Tunisia,Tunis,Bab Souika,Region 9,Street 3
+C0317,Tunisia,Sfax,Sakiet Ezzit,Region 5,Street 7
+C0318,Algeria,Algiers,El Madania,Region 6,Street 10
+C0319,Algeria,Algiers,Kouba,Region 2,Street 10
+C0320,Libya,Bayda,Al-Madina,Region 7,Street 8
+C0321,Algeria,Constantine,Beni Hamidane,Region 7,Street 8
+C0322,Algeria,Blida,Benkhelifa,Region 6,Street 3
+C0323,Libya,Benghazi,Madinet Al-Shuhada,Region 2,Street 10
+C0324,Algeria,Oran,Centre Ville,Region 10,Street 4
+C0325,Morocco,Tangier,Medina,Region 6,Street 3
+C0326,Egypt,Giza,Mohandessin,Region 6,Street 10
+C0327,Libya,Bayda,Al-Madina,Region 9,Street 10
+C0328,Morocco,Agadir,Hay Salam,Region 9,Street 9
+C0329,Egypt,Ismailia,Qantara,Region 8,Street 1
+C0330,Tunisia,Kairouan,Medina,Region 9,Street 7
+C0331,Egypt,Aswan,Abu Simbel,Region 3,Street 6
+C0332,Egypt,Luxor,Esna,Region 6,Street 2
+C0333,Algeria,Algiers,Hydra,Region 7,Street 1
+C0334,Libya,Tripoli,Janzour,Region 4,Street 6
+C0335,Libya,Misrata,Airport District,Region 2,Street 6
+C0336,Morocco,Marrakech,Hivernage,Region 1,Street 9
+C0337,Tunisia,Kairouan,Chebika,Region 1,Street 7
+C0338,Libya,Bayda,Al-Madina,Region 7,Street 5
+C0339,Algeria,Oran,Gdyel,Region 4,Street 8
+C0340,Algeria,Annaba,Sidi Amar,Region 7,Street 1
+C0341,Libya,Benghazi,Madinet Al-Shuhada,Region 3,Street 10
+C0342,Libya,Benghazi,Al-Fateh,Region 6,Street 1
+C0343,Egypt,Giza,October,Region 6,Street 9
+C0344,Libya,Zliten,Al-Sahil,Region 9,Street 9
+C0345,Morocco,Rabat,Takaddoum,Region 3,Street 2
+C0346,Libya,Misrata,Old City,Region 4,Street 7
+C0347,Algeria,Batna,Tazoult,Region 7,Street 1
+C0348,Tunisia,Sousse,Riad Ettahrir,Region 2,Street 8
+C0349,Egypt,Aswan,Kom Ombo,Region 3,Street 2
+C0350,Libya,Tobruk,Al-Jadida,Region 6,Street 6
+C0351,Tunisia,Bizerte,Menzel Bourguiba,Region 1,Street 1
+C0352,Tunisia,Kairouan,Medina,Region 9,Street 1
+C0353,Algeria,Oran,Bir El Djir,Region 4,Street 4
+C0354,Egypt,Cairo,Dokki,Region 2,Street 5
+C0355,Egypt,Suez,Suez City,Region 10,Street 5
+C0356,Algeria,Blida,Benkhelifa,Region 1,Street 7
+C0357,Egypt,Suez,Arbaeen District,Region 3,Street 3
+C0358,Morocco,Marrakech,Medina,Region 8,Street 6
+C0359,Libya,Zliten,Al-Madina,Region 4,Street 1
+C0360,Libya,Bayda,Al-Madina,Region 3,Street 3
+C0361,Algeria,Oran,Gdyel,Region 3,Street 1
+C0362,Morocco,Rabat,Takaddoum,Region 3,Street 3
+C0363,Morocco,Casablanca,Derb Ghallef,Region 6,Street 5
+C0364,Tunisia,Gabes,Gabes Ville,Region 7,Street 6
+C0365,Libya,Benghazi,Al-Hawari,Region 3,Street 4
+C0366,Egypt,Alexandria,Asafra,Region 6,Street 1
+C0367,Egypt,Alexandria,Somouha,Region 10,Street 9
+C0368,Egypt,Giza,October,Region 1,Street 7
+C0369,Morocco,Marrakech,Massira,Region 1,Street 4
+C0370,Tunisia,Tunis,La Marsa,Region 3,Street 8
+C0371,Morocco,Tangier,Cap Spartel,Region 6,Street 8
+C0372,Algeria,Algiers,El Madania,Region 5,Street 9
+C0373,Morocco,Casablanca,Sidi Moumen,Region 9,Street 5
+C0373,Morocco,Fes,Zouagha,Region 9,Street 7
+C0374,Egypt,Suez,Ataka District,Region 9,Street 7
+C0375,Libya,Bayda,Al-Madina,Region 3,Street 3
+C0375,Morocco,Fes,Zouagha,Region 10,Street 3
+C0376,Algeria,Annaba,Sidi Amar,Region 10,Street 4
+C0377,Libya,Misrata,Old City,Region 2,Street 10
+C0378,Algeria,Oran,Gdyel,Region 1,Street 8
+C0379,Egypt,Aswan,Abu Simbel,Region 1,Street 2
+C0380,Egypt,Aswan,Edfu,Region 7,Street 10
+C0381,Egypt,Suez,Suez City,Region 7,Street 4
+C0382,Egypt,Port Said,Port Said City,Region 4,Street 3
+C0383,Libya,Misrata,Old City,Region 6,Street 10
+C0384,Algeria,Batna,Menaa,Region 7,Street 1
+C0385,Tunisia,Sousse,Riad Ettahrir,Region 10,Street 3
+C0386,Egypt,Alexandria,Miami,Region 7,Street 3
+C0387,Egypt,Giza,October,Region 5,Street 6
+C0388,Morocco,Marrakech,Gueliz,Region 2,Street 1
+C0389,Morocco,Rabat,Hay Riad,Region 5,Street 8
+C0390,Libya,Zliten,Al-Madina,Region 8,Street 4
+C0391,Egypt,Aswan,Abu Simbel,Region 5,Street 5
+C0392,Libya,Tripoli,Bab Tajura,Region 6,Street 8
+C0393,Tunisia,Gabes,Metouia,Region 9,Street 8
+C0394,Egypt,Luxor,Luxor City,Region 3,Street 9
+C0395,Tunisia,Bizerte,Ras Jebel,Region 1,Street 5
+C0396,Morocco,Fes,Borj,Region 3,Street 4
+C0397,Egypt,Luxor,Qurna,Region 6,Street 7
+C0398,Libya,Tobruk,Al-Sahil,Region 6,Street 3
+C0399,Egypt,Luxor,Karnak,Region 8,Street 1
+C0400,Morocco,Casablanca,Sidi Moumen,Region 10,Street 10
+C0400,Egypt,Giza,Dokki,Region 4,Street 5
+C0401,Libya,Benghazi,Sorman,Region 10,Street 9
+C0402,Morocco,Tangier,Medina,Region 4,Street 1
+C0403,Egypt,Cairo,Mohandessin,Region 6,Street 6
+C0404,Egypt,Cairo,Dokki,Region 10,Street 1
+C0405,Libya,Zliten,Al-Sahil,Region 9,Street 4
+C0406,Morocco,Fes,Zouagha,Region 8,Street 9
+C0407,Algeria,Algiers,Kouba,Region 10,Street 4
+C0408,Egypt,Luxor,Luxor City,Region 8,Street 3
+C0409,Egypt,Cairo,Nasr City,Region 10,Street 10
+C0410,Morocco,Casablanca,Hay Hassani,Region 7,Street 1
+C0411,Libya,Benghazi,Al-Hawari,Region 2,Street 3
+C0412,Libya,Misrata,Airport District,Region 8,Street 3
+C0413,Libya,Misrata,Industrial Zone,Region 1,Street 2
+C0414,Egypt,Port Said,Attarin District,Region 7,Street 4
+C0415,Morocco,Agadir,Talborjt,Region 1,Street 1
+C0416,Algeria,Annaba,Sidi Amar,Region 2,Street 8
+C0417,Morocco,Rabat,Hay Riad,Region 7,Street 10
+C0418,Algeria,Constantine,El Kantara,Region 6,Street 6
+C0419,Morocco,Casablanca,Derb Ghallef,Region 3,Street 3
+C0420,Egypt,Aswan,Abu Simbel,Region 9,Street 7
+C0421,Algeria,Annaba,Chetma,Region 3,Street 3
+C0422,Algeria,Constantine,Beni Hamidane,Region 8,Street 7
+C0423,Libya,Misrata,Airport District,Region 1,Street 10
+C0424,Algeria,Annaba,El Bouni,Region 9,Street 3
+C0425,Tunisia,Gabes,Gabes Sud,Region 8,Street 7
+C0426,Algeria,Constantine,Beni Hamidane,Region 4,Street 7
+C0427,Egypt,Suez,Arbaeen District,Region 2,Street 4
+C0428,Libya,Zliten,Al-Jadida,Region 10,Street 7
+C0429,Libya,Misrata,Industrial Zone,Region 10,Street 8
+C0430,Egypt,Luxor,Armant,Region 9,Street 8
+C0431,Tunisia,Tunis,Bab Souika,Region 2,Street 9
+C0432,Algeria,Constantine,Beni Hamidane,Region 2,Street 5
+C0433,Tunisia,Sousse,Msaken,Region 9,Street 3
+C0434,Tunisia,Gabes,Gabes Ville,Region 5,Street 6
+C0434,Tunisia,Gabes,Metouia,Region 8,Street 9
+C0435,Algeria,Blida,Benkhelifa,Region 8,Street 1
+C0436,Morocco,Marrakech,Hivernage,Region 1,Street 2
+C0437,Morocco,Tangier,Medina,Region 2,Street 1
+C0438,Tunisia,Sfax,Sakiet Ezzit,Region 2,Street 3
+C0438,Morocco,Casablanca,Derb Ghallef,Region 2,Street 5
+C0439,Tunisia,Bizerte,Menzel Bourguiba,Region 6,Street 6
+C0440,Algeria,Algiers,Hydra,Region 2,Street 4
+C0441,Algeria,Oran,Centre Ville,Region 6,Street 2
+C0442,Tunisia,Gabes,Gabes Sud,Region 3,Street 8
+C0443,Tunisia,Sfax,Sakiet Eddaier,Region 10,Street 7
+C0444,Morocco,Fes,Fes Jdid,Region 3,Street 8
+C0445,Libya,Bayda,Al-Madina,Region 4,Street 4
+C0446,Tunisia,Tunis,El Manar,Region 8,Street 2
+C0447,Algeria,Annaba,El Bouni,Region 2,Street 2
+C0448,Morocco,Marrakech,Massira,Region 1,Street 10
+C0449,Libya,Zliten,Al-Madina,Region 9,Street 6
+C0450,Morocco,Tangier,Cap Spartel,Region 1,Street 8
+C0451,Morocco,Agadir,Hay Salam,Region 5,Street 2
+C0452,Algeria,Batna,Tazoult,Region 8,Street 3
+C0453,Algeria,Constantine,El Kantara,Region 1,Street 5
+C0454,Libya,Benghazi,Sorman,Region 2,Street 8
+C0455,Libya,Zliten,Al-Madina,Region 7,Street 8
+C0456,Tunisia,Gabes,Gabes Sud,Region 6,Street 7
+C0457,Morocco,Rabat,Souissi,Region 3,Street 6
+C0458,Egypt,Cairo,Nasr City,Region 5,Street 9
+C0459,Egypt,Port Said,Port Fouad,Region 10,Street 6
+C0460,Egypt,Aswan,Kom Ombo,Region 10,Street 4
+C0461,Morocco,Tangier,Cap Spartel,Region 7,Street 5
+C0462,Egypt,Alexandria,Stanley,Region 7,Street 10
+C0463,Libya,Zliten,Al-Jadida,Region 10,Street 5
+C0464,Algeria,Blida,Centre Ville,Region 2,Street 1
+C0465,Tunisia,Bizerte,Ras Jebel,Region 2,Street 3
+C0466,Algeria,Batna,Menaa,Region 6,Street 2
+C0467,Libya,Tobruk,Al-Madina,Region 7,Street 3
+C0468,Tunisia,Sfax,Sakiet Eddaier,Region 8,Street 8
+C0469,Algeria,Constantine,Beni Hamidane,Region 3,Street 9
+C0470,Tunisia,Bizerte,Ras Jebel,Region 3,Street 1
+C0471,Algeria,Constantine,Beni Hamidane,Region 1,Street 2
+C0472,Algeria,Annaba,Sidi Amar,Region 10,Street 3
+C0473,Tunisia,Bizerte,Ras Jebel,Region 6,Street 1
+C0474,Tunisia,Sousse,Riad Ettahrir,Region 7,Street 7
+C0475,Libya,Zliten,Al-Sahil,Region 4,Street 8
+C0476,Algeria,Oran,Bir El Djir,Region 8,Street 6
+C0477,Tunisia,Gabes,Gabes Ville,Region 9,Street 1
+C0478,Tunisia,Sousse,Msaken,Region 1,Street 8
+C0479,Tunisia,Sfax,Sakiet Ezzit,Region 2,Street 3
+C0480,Tunisia,Gabes,Metouia,Region 9,Street 8
+C0481,Algeria,Oran,Es Senia,Region 7,Street 8
+C0482,Egypt,Alexandria,Asafra,Region 3,Street 7
+C0483,Tunisia,Sfax,Sakiet Eddaier,Region 6,Street 6
+C0484,Morocco,Rabat,Agdal,Region 3,Street 1
+C0485,Morocco,Fes,Fes el-Bali,Region 6,Street 9
+C0486,Libya,Tripoli,Bab Tajura,Region 2,Street 9
+C0487,Tunisia,Sfax,Sakiet Eddaier,Region 7,Street 3
+C0488,Egypt,Luxor,Esna,Region 8,Street 1
+C0489,Libya,Misrata,Airport District,Region 4,Street 10
+C0490,Egypt,Port Said,Port Said City,Region 1,Street 2
+C0491,Egypt,Alexandria,Stanley,Region 9,Street 6
+C0492,Morocco,Casablanca,Hay Hassani,Region 5,Street 2
+C0493,Morocco,Tangier,Cap Spartel,Region 3,Street 2
+C0494,Tunisia,Sousse,Old Town,Region 6,Street 7
+C0495,Egypt,Luxor,Armant,Region 6,Street 10
+C0496,Libya,Benghazi,Al-Hawari,Region 9,Street 4
+C0497,Tunisia,Sousse,Riad Ettahrir,Region 2,Street 7
+C0498,Egypt,Suez,Suez City,Region 5,Street 1
+C0499,Egypt,Giza,Dokki,Region 7,Street 4
+C0500,Morocco,Marrakech,Medina,Region 8,Street 4
+C0501,Egypt,Port Said,Zohour District,Region 8,Street 8
+C0502,Libya,Misrata,Old City,Region 4,Street 9
+C0503,Egypt,Suez,Suez City,Region 5,Street 2
+C0504,Tunisia,Sousse,Riad Ettahrir,Region 3,Street 10
+C0505,Morocco,Casablanca,Derb Ghallef,Region 4,Street 3
+C0506,Egypt,Ismailia,Fayed,Region 1,Street 6
+C0507,Morocco,Marrakech,Medina,Region 4,Street 1
+C0508,Algeria,Blida,Benkhelifa,Region 4,Street 4
+C0509,Egypt,Port Said,Attarin District,Region 7,Street 5
+C0510,Egypt,Suez,Suez City,Region 2,Street 6
+C0511,Egypt,Alexandria,Somouha,Region 4,Street 9
+C0512,Libya,Tobruk,Al-Jadida,Region 1,Street 5
+C0513,Morocco,Marrakech,Medina,Region 3,Street 10
+C0514,Libya,Zliten,Al-Sahil,Region 6,Street 9
+C0515,Tunisia,Sfax,Sakiet Ezzit,Region 3,Street 1
+C0516,Algeria,Constantine,Didouche Mourad,Region 4,Street 3
+C0517,Tunisia,Kairouan,Medina,Region 10,Street 4
+C0518,Tunisia,Kairouan,Chebika,Region 8,Street 7
+C0519,Libya,Benghazi,Madinet Al-Shuhada,Region 8,Street 6
+C0520,Libya,Bayda,Al-Jamaa,Region 8,Street 3
+C0521,Morocco,Tangier,Cap Spartel,Region 8,Street 2
+C0522,Algeria,Blida,Benkhelifa,Region 4,Street 10
+C0523,Libya,Tobruk,Al-Madina,Region 7,Street 6
+C0524,Libya,Zliten,Al-Jadida,Region 8,Street 9
+C0525,Egypt,Cairo,Nasr City,Region 4,Street 10
+C0526,Egypt,Port Said,Port Fouad,Region 7,Street 4
+C0527,Libya,Zliten,Al-Jadida,Region 10,Street 8
+C0528,Tunisia,Sfax,Old City,Region 10,Street 5
+C0529,Morocco,Rabat,Hay Riad,Region 6,Street 4
+C0530,Egypt,Cairo,Mohandessin,Region 1,Street 6
+C0531,Algeria,Batna,Menaa,Region 9,Street 3
+C0533,Morocco,Fes,Borj,Region 6,Street 2
+C0534,Algeria,Batna,Tazoult,Region 8,Street 3
+C0535,Algeria,Oran,Bir El Djir,Region 7,Street 4
+C0536,Morocco,Agadir,Hay Salam,Region 1,Street 8
+C0537,Morocco,Marrakech,Medina,Region 4,Street 3
+C0538,Tunisia,Sousse,Msaken,Region 3,Street 7
+C0539,Algeria,Oran,Es Senia,Region 2,Street 5
+C0540,Tunisia,Kairouan,Haffouz,Region 10,Street 3
+C0541,Morocco,Fes,Fes Jdid,Region 10,Street 5
+C0542,Egypt,Alexandria,Miami,Region 6,Street 8
+C0543,Algeria,Algiers,El Madania,Region 6,Street 10
+C0544,Tunisia,Sousse,Msaken,Region 9,Street 1
+C0545,Morocco,Fes,Zouagha,Region 5,Street 8
+C0546,Egypt,Aswan,Kom Ombo,Region 3,Street 10
+C0547,Morocco,Fes,Zouagha,Region 8,Street 8
+C0548,Egypt,Luxor,Armant,Region 5,Street 10
+C0549,Morocco,Tangier,Tanger City Center,Region 7,Street 7
+C0550,Libya,Misrata,Old City,Region 2,Street 8
+C0551,Tunisia,Gabes,Gabes Ville,Region 4,Street 4
+C0552,Morocco,Agadir,Anahda,Region 5,Street 7
+C0553,Egypt,Suez,Suez City,Region 3,Street 1
+C0554,Algeria,Oran,Gdyel,Region 7,Street 5
+C0555,Egypt,Aswan,Aswan City,Region 7,Street 3
+C0556,Egypt,Port Said,Zohour District,Region 6,Street 4
+C0557,Tunisia,Tunis,Bab Souika,Region 10,Street 7
+C0558,Morocco,Tangier,Tanger City Center,Region 8,Street 8
+C0559,Morocco,Tangier,Cap Spartel,Region 2,Street 10
+C0560,Libya,Zliten,Al-Sahil,Region 5,Street 1
+C0561,Egypt,Luxor,Esna,Region 1,Street 4
+C0562,Algeria,Algiers,Hydra,Region 4,Street 6
+C0563,Morocco,Casablanca,Hay Hassani,Region 9,Street 2
+C0564,Libya,Bayda,Al-Jamaa,Region 9,Street 8
+C0565,Morocco,Marrakech,Gueliz,Region 3,Street 3
+C0566,Egypt,Cairo,Mohandessin,Region 9,Street 1
+C0567,Algeria,Blida,Centre Ville,Region 9,Street 7
+C0568,Morocco,Fes,Fes Jdid,Region 1,Street 9
+C0569,Algeria,Batna,Menaa,Region 6,Street 3
+C0570,Morocco,Marrakech,Massira,Region 5,Street 6
+C0570,Tunisia,Kairouan,Haffouz,Region 5,Street 4
+C0571,Tunisia,Sousse,Old Town,Region 1,Street 7
+C0572,Egypt,Suez,Ataka District,Region 5,Street 8
+C0573,Tunisia,Tunis,El Manar,Region 1,Street 8
+C0574,Tunisia,Sousse,Msaken,Region 8,Street 6
+C0575,Egypt,Cairo,Maadi,Region 3,Street 7
+C0576,Morocco,Casablanca,Sidi Moumen,Region 4,Street 1
+C0577,Egypt,Ismailia,Qantara,Region 9,Street 4
+C0578,Egypt,Port Said,Attarin District,Region 5,Street 7
+C0579,Egypt,Suez,Arbaeen District,Region 9,Street 2
+C0580,Libya,Bayda,Al-Qasr,Region 2,Street 8
+C0581,Morocco,Marrakech,Hivernage,Region 10,Street 9
+C0582,Tunisia,Sousse,Riad Ettahrir,Region 10,Street 7
+C0583,Tunisia,Tunis,La Marsa,Region 1,Street 6
+C0584,Tunisia,Kairouan,Medina,Region 1,Street 10
+C0585,Libya,Misrata,Airport District,Region 3,Street 7
+C0586,Egypt,Giza,Mohandessin,Region 6,Street 7
+C0587,Egypt,Alexandria,Roushdy,Region 7,Street 3
+C0588,Tunisia,Kairouan,Chebika,Region 1,Street 1
+C0589,Tunisia,Sousse,Riad Ettahrir,Region 2,Street 8
+C0590,Tunisia,Sousse,Old Town,Region 3,Street 8
+C0591,Tunisia,Bizerte,Ras Jebel,Region 1,Street 4
+C0592,Morocco,Tangier,Cap Spartel,Region 6,Street 1
+C0593,Morocco,Fes,Fes el-Bali,Region 5,Street 2
+C0594,Algeria,Oran,Es Senia,Region 10,Street 8
+C0595,Egypt,Suez,Suez City,Region 8,Street 10
+C0596,Algeria,Blida,Soumaa,Region 6,Street 9
+C0597,Libya,Tobruk,Al-Jadida,Region 1,Street 5
+C0598,Morocco,Tangier,Tanger City Center,Region 3,Street 2
+C0599,Libya,Misrata,Industrial Zone,Region 9,Street 2
+C0600,Morocco,Rabat,Souissi,Region 9,Street 6
+C0601,Egypt,Aswan,Abu Simbel,Region 8,Street 3
+C0602,Libya,Benghazi,Madinet Al-Shuhada,Region 6,Street 8
+C0603,Egypt,Ismailia,Fayed,Region 9,Street 2
+C0604,Libya,Bayda,Al-Madina,Region 5,Street 2
+C0605,Algeria,Annaba,Sidi Amar,Region 6,Street 6
+C0606,Egypt,Alexandria,Somouha,Region 5,Street 5
+C0607,Tunisia,Sfax,Sakiet Eddaier,Region 10,Street 5
+C0608,Algeria,Constantine,Beni Hamidane,Region 2,Street 1
+C0609,Algeria,Constantine,Didouche Mourad,Region 3,Street 5
+C0610,Tunisia,Bizerte,Menzel Bourguiba,Region 7,Street 1
+C0611,Algeria,Oran,Centre Ville,Region 2,Street 4
+C0612,Algeria,Blida,Centre Ville,Region 2,Street 8
+C0613,Libya,Tripoli,Janzour,Region 5,Street 6
+C0614,Morocco,Marrakech,Gueliz,Region 3,Street 10
+C0615,Tunisia,Gabes,Gabes Sud,Region 5,Street 5
+C0616,Algeria,Algiers,Hydra,Region 5,Street 9
+C0617,Morocco,Casablanca,Derb Ghallef,Region 5,Street 7
+C0618,Tunisia,Bizerte,Ras Jebel,Region 8,Street 9
+C0619,Algeria,Blida,Benkhelifa,Region 7,Street 10
+C0620,Egypt,Cairo,Maadi,Region 5,Street 3
+C0621,Algeria,Constantine,El Kantara,Region 5,Street 4
+C0622,Egypt,Port Said,Attarin District,Region 10,Street 8
+C0623,Morocco,Casablanca,Ain Sebaa,Region 5,Street 6
+C0624,Algeria,Algiers,Kouba,Region 8,Street 8
+C0625,Libya,Zliten,Al-Madina,Region 7,Street 5
+C0626,Egypt,Alexandria,Roushdy,Region 8,Street 5
+C0627,Algeria,Batna,Menaa,Region 8,Street 8
+C0628,Algeria,Constantine,El Kantara,Region 6,Street 9
+C0629,Morocco,Rabat,Agdal,Region 10,Street 4
+C0630,Egypt,Aswan,Kom Ombo,Region 4,Street 5
+C0631,Libya,Tripoli,Bab Tajura,Region 9,Street 2
+C0632,Morocco,Tangier,Medina,Region 8,Street 6
+C0633,Tunisia,Sfax,Old City,Region 4,Street 3
+C0634,Tunisia,Gabes,Gabes Sud,Region 9,Street 1
+C0635,Tunisia,Sousse,Msaken,Region 10,Street 1
+C0636,Morocco,Rabat,Souissi,Region 7,Street 7
+C0637,Libya,Zliten,Al-Jadida,Region 7,Street 7
+C0638,Morocco,Rabat,Agdal,Region 3,Street 4
+C0639,Egypt,Aswan,Edfu,Region 3,Street 2
+C0640,Libya,Benghazi,Al-Fateh,Region 2,Street 1
+C0641,Algeria,Algiers,El Madania,Region 2,Street 8
+C0642,Morocco,Casablanca,Sidi Moumen,Region 5,Street 8
+C0643,Tunisia,Kairouan,Haffouz,Region 3,Street 3
+C0643,Algeria,Constantine,Didouche Mourad,Region 5,Street 10
+C0644,Egypt,Giza,Haram,Region 5,Street 7
+C0645,Tunisia,Kairouan,Chebika,Region 4,Street 10
+C0646,Algeria,Oran,Centre Ville,Region 8,Street 8
+C0647,Egypt,Alexandria,Roushdy,Region 10,Street 3
+C0648,Tunisia,Sousse,Riad Ettahrir,Region 1,Street 10
+C0649,Egypt,Aswan,Abu Simbel,Region 7,Street 8
+C0650,Algeria,Oran,Centre Ville,Region 1,Street 6
+C0651,Morocco,Marrakech,Hivernage,Region 1,Street 1
+C0652,Libya,Tobruk,Al-Madina,Region 10,Street 10
+C0653,Egypt,Cairo,Dokki,Region 3,Street 4
+C0654,Tunisia,Kairouan,Medina,Region 2,Street 5
+C0655,Egypt,Alexandria,Stanley,Region 5,Street 5
+C0656,Algeria,Oran,Es Senia,Region 6,Street 3
+C0657,Algeria,Constantine,El Kantara,Region 8,Street 5
+C0658,Algeria,Batna,Ali Mendjeli,Region 10,Street 10
+C0659,Morocco,Fes,Fes el-Bali,Region 5,Street 4
+C0660,Tunisia,Bizerte,Menzel Bourguiba,Region 5,Street 3
+C0661,Morocco,Fes,Fes el-Bali,Region 10,Street 6
+C0662,Algeria,Annaba,El Bouni,Region 1,Street 8
+C0662,Morocco,Marrakech,Medina,Region 1,Street 1
+C0663,Morocco,Agadir,Hay Salam,Region 1,Street 10
+C0664,Egypt,Ismailia,Sudr,Region 3,Street 5
+C0665,Libya,Bayda,Al-Qasr,Region 8,Street 1
+C0666,Algeria,Blida,Soumaa,Region 7,Street 3
+C0667,Algeria,Batna,Ali Mendjeli,Region 3,Street 7
+C0668,Libya,Tobruk,Al-Madina,Region 7,Street 8
+C0669,Libya,Tripoli,Souq al-Juma,Region 9,Street 6
+C0670,Egypt,Aswan,Kom Ombo,Region 10,Street 6
+C0671,Egypt,Cairo,Dokki,Region 5,Street 7
+C0672,Tunisia,Sfax,Sakiet Ezzit,Region 9,Street 1
+C0673,Egypt,Luxor,Qurna,Region 1,Street 3
+C0674,Morocco,Casablanca,Derb Ghallef,Region 8,Street 10
+C0675,Libya,Misrata,Airport District,Region 2,Street 3
+C0676,Egypt,Alexandria,Miami,Region 3,Street 6
+C0677,Morocco,Tangier,Medina,Region 7,Street 5
+C0678,Algeria,Annaba,El Bouni,Region 5,Street 4
+C0679,Libya,Tobruk,Al-Sahil,Region 9,Street 10
+C0680,Egypt,Aswan,Kom Ombo,Region 10,Street 10
+C0681,Morocco,Tangier,Cap Spartel,Region 6,Street 6
+C0682,Algeria,Annaba,El Bouni,Region 7,Street 9
+C0683,Egypt,Port Said,Port Fouad,Region 5,Street 3
+C0684,Tunisia,Gabes,Gabes Sud,Region 10,Street 2
+C0685,Libya,Bayda,Al-Qasr,Region 6,Street 9
+C0686,Algeria,Oran,Es Senia,Region 2,Street 6
+C0687,Egypt,Aswan,Elephantine,Region 6,Street 2
+C0688,Tunisia,Sousse,Riad Ettahrir,Region 2,Street 5
+C0689,Algeria,Blida,Soumaa,Region 5,Street 7
+C0690,Morocco,Fes,Zouagha,Region 3,Street 1
+C0691,Algeria,Constantine,El Kantara,Region 6,Street 5
+C0692,Egypt,Luxor,Luxor City,Region 7,Street 7
+C0693,Tunisia,Kairouan,Haffouz,Region 7,Street 3
+C0694,Algeria,Annaba,El Bouni,Region 9,Street 5
+C0695,Morocco,Casablanca,Ain Sebaa,Region 9,Street 7
+C0696,Algeria,Blida,Centre Ville,Region 3,Street 9
+C0697,Morocco,Rabat,Agdal,Region 8,Street 3
+C0698,Egypt,Giza,Mohandessin,Region 4,Street 2
+C0699,Libya,Benghazi,Al-Fateh,Region 4,Street 10
+C0700,Egypt,Ismailia,Fayed,Region 5,Street 3
+C0701,Morocco,Rabat,Hay Riad,Region 10,Street 8
+C0702,Morocco,Tangier,Cap Spartel,Region 8,Street 4
+C0703,Libya,Zliten,Al-Jadida,Region 6,Street 9
+C0704,Algeria,Blida,Centre Ville,Region 4,Street 1
+C0705,Algeria,Annaba,El Bouni,Region 2,Street 5
+C0706,Tunisia,Gabes,Gabes Sud,Region 10,Street 10
+C0707,Algeria,Constantine,Didouche Mourad,Region 5,Street 7
+C0708,Egypt,Luxor,Armant,Region 9,Street 3
+C0709,Tunisia,Tunis,Carthage,Region 3,Street 3
+C0710,Egypt,Luxor,Karnak,Region 3,Street 6
+C0711,Egypt,Alexandria,Asafra,Region 8,Street 3
+C0712,Morocco,Rabat,Takaddoum,Region 2,Street 9
+C0713,Egypt,Giza,Dokki,Region 3,Street 4
+C0714,Tunisia,Gabes,Gabes Sud,Region 3,Street 2
+C0715,Egypt,Ismailia,Sudr,Region 2,Street 9
+C0716,Egypt,Aswan,Elephantine,Region 6,Street 4
+C0717,Egypt,Cairo,Maadi,Region 6,Street 5
+C0718,Libya,Tobruk,Al-Sahil,Region 9,Street 10
+C0719,Algeria,Constantine,El Kantara,Region 1,Street 3
+C0720,Egypt,Aswan,Kom Ombo,Region 9,Street 10
+C0721,Algeria,Blida,Centre Ville,Region 2,Street 10
+C0722,Libya,Tobruk,Al-Jadida,Region 5,Street 2
+C0723,Morocco,Tangier,Tanger City Center,Region 4,Street 4
+C0724,Egypt,Luxor,Luxor City,Region 2,Street 9
+C0725,Libya,Bayda,Al-Qasr,Region 10,Street 2
+C0726,Libya,Tripoli,Souq al-Juma,Region 9,Street 2
+C0727,Morocco,Rabat,Hay Riad,Region 9,Street 6
+C0728,Tunisia,Kairouan,Chebika,Region 3,Street 7
+C0729,Libya,Tripoli,Downtown,Region 3,Street 4
+C0730,Algeria,Constantine,Didouche Mourad,Region 5,Street 2
+C0731,Egypt,Cairo,Maadi,Region 5,Street 1
+C0732,Egypt,Cairo,Mohandessin,Region 3,Street 7
+C0733,Algeria,Oran,Bir El Djir,Region 7,Street 1
+C0734,Algeria,Constantine,Beni Hamidane,Region 4,Street 2
+C0735,Tunisia,Gabes,Gabes Ville,Region 7,Street 5
+C0736,Algeria,Constantine,Beni Hamidane,Region 10,Street 4
+C0737,Morocco,Tangier,Tanger City Center,Region 2,Street 10
+C0738,Morocco,Rabat,Takaddoum,Region 6,Street 8
+C0739,Tunisia,Gabes,Metouia,Region 6,Street 5
+C0740,Tunisia,Gabes,Gabes Ville,Region 10,Street 1
+C0741,Egypt,Ismailia,Fayed,Region 8,Street 5
+C0742,Egypt,Ismailia,Ismailia City,Region 5,Street 1
+C0743,Algeria,Blida,Soumaa,Region 2,Street 3
+C0744,Morocco,Agadir,Hay Salam,Region 6,Street 9
+C0745,Algeria,Batna,Ali Mendjeli,Region 6,Street 2
+C0746,Tunisia,Bizerte,Ras Jebel,Region 10,Street 5
+C0747,Morocco,Agadir,Anahda,Region 7,Street 1
+C0748,Algeria,Oran,Es Senia,Region 9,Street 3
+C0749,Morocco,Rabat,Takaddoum,Region 1,Street 9
+C0750,Tunisia,Tunis,Carthage,Region 8,Street 9
+C0751,Egypt,Aswan,Aswan City,Region 6,Street 3
+C0752,Algeria,Annaba,Chetma,Region 4,Street 10
+C0753,Egypt,Suez,Suez City,Region 8,Street 3
+C0754,Egypt,Aswan,Abu Simbel,Region 4,Street 4
+C0755,Tunisia,Tunis,Carthage,Region 3,Street 5
+C0756,Libya,Benghazi,Al-Fateh,Region 2,Street 9
+C0757,Tunisia,Gabes,Gabes Sud,Region 7,Street 3
+C0758,Libya,Benghazi,Al-Hawari,Region 9,Street 7
+C0759,Egypt,Port Said,Port Fouad,Region 9,Street 1
+C0760,Morocco,Rabat,Takaddoum,Region 5,Street 7
+C0761,Algeria,Annaba,Sidi Amar,Region 7,Street 7
+C0762,Algeria,Annaba,Chetma,Region 4,Street 1
+C0763,Tunisia,Bizerte,Medina,Region 4,Street 9
+C0764,Libya,Tripoli,Downtown,Region 7,Street 10
+C0765,Libya,Bayda,Al-Jamaa,Region 2,Street 5
+C0766,Libya,Misrata,Industrial Zone,Region 9,Street 3
+C0767,Libya,Misrata,Old City,Region 4,Street 9
+C0768,Tunisia,Sfax,Sakiet Eddaier,Region 3,Street 2
+C0769,Tunisia,Kairouan,Haffouz,Region 5,Street 4
+C0770,Algeria,Oran,Gdyel,Region 5,Street 4
+C0771,Algeria,Annaba,Chetma,Region 5,Street 2
+C0772,Tunisia,Tunis,La Marsa,Region 3,Street 3
+C0773,Tunisia,Sousse,Riad Ettahrir,Region 8,Street 9
+C0774,Tunisia,Sfax,Sakiet Eddaier,Region 1,Street 3
+C0775,Libya,Benghazi,Al-Fateh,Region 7,Street 7
+C0776,Libya,Benghazi,Al-Fateh,Region 4,Street 8
+C0777,Morocco,Rabat,Takaddoum,Region 3,Street 10
+C0778,Egypt,Port Said,Port Said City,Region 10,Street 1
+C0779,Algeria,Algiers,El Madania,Region 9,Street 1
+C0779,Tunisia,Gabes,Gabes Sud,Region 3,Street 5
+C0780,Tunisia,Kairouan,Medina,Region 1,Street 3
+C0781,Tunisia,Bizerte,Medina,Region 8,Street 5
+C0782,Tunisia,Sfax,Sakiet Ezzit,Region 8,Street 9
+C0783,Egypt,Cairo,Heliopolis,Region 8,Street 9
+C0784,Tunisia,Sfax,Sakiet Ezzit,Region 2,Street 6
+C0785,Libya,Misrata,Airport District,Region 6,Street 4
+C0786,Libya,Zliten,Al-Sahil,Region 2,Street 8
+C0787,Tunisia,Bizerte,Medina,Region 3,Street 1
+C0788,Morocco,Casablanca,Hay Hassani,Region 2,Street 8
+C0789,Algeria,Constantine,El Kantara,Region 2,Street 1
+C0790,Libya,Zliten,Al-Madina,Region 4,Street 8
+C0791,Tunisia,Sousse,Riad Ettahrir,Region 4,Street 8
+C0792,Tunisia,Tunis,La Marsa,Region 8,Street 3
+C0793,Libya,Misrata,Airport District,Region 3,Street 1
+C0794,Algeria,Blida,Soumaa,Region 10,Street 1
+C0795,Libya,Zliten,Al-Jadida,Region 5,Street 2
+C0796,Morocco,Agadir,Anahda,Region 8,Street 6
+C0797,Algeria,Algiers,El Madania,Region 1,Street 9
+C0798,Egypt,Ismailia,Qantara,Region 7,Street 3
+C0799,Libya,Tripoli,Janzour,Region 5,Street 10
+C0800,Tunisia,Kairouan,Chebika,Region 9,Street 9

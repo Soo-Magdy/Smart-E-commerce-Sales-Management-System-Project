@@ -1,0 +1,609 @@
+Pro_ID,Pro_Name,Price,Avl_quantity
+P0001,Chai Bil Lahem,149.6,71.0
+P0002,Zaabat el Banadoura,11.2,119.0
+P0003,chai bil naamal,86.81,142.0
+P0004,Chai Bil Karkadai,59.18,390.0
+P0005,Kousa bi Lahem,56.58,
+P0006,Zaabat el Banadoura,166.73,441.0
+P0007,Chai Bil Mandi,61.43,119.0
+P0008,Bamia bi Lahem,77.19,136.0
+P0009,Chai Bil Lahem,147.18,194.0
+P0010,Shawerma,169.36,117.0
+INVALID,Laban Rayeb,188.87,161.0
+P0012,Chai Bil Naamal,56.65,287.0
+P0013,Tamr Mariami,47.77,260.0
+P0014,Feteer Meshaltet,159.46,32.0
+P0015,Hummus,172.85,
+P0016,Baba Ghanoush,71.33,80.0
+P0017,Hummus,153.58,54.0
+P0018,Shai Belghora,77.91,488.0
+P0018,Shai Belghora,77.91,488.0
+P0019,Knafeh,26.81,425.0
+P0020,Jallab,21.7,35.0
+P0021,Chai Bil Mandi,112.21,446.0
+P0022,Mansaf,44.22,343.0
+P0023,Kousa Mahshi,17.49,
+P0023,Kousa Mahshi,17.49,
+P0024,Loubia bi Zeit,49.64,440.0
+P0025,Saleem Chai,30.8,292.0
+P0026,Qahwa Arabiya,23.9,216.0
+P0027,Chai Bil Naamal,24.19,173.0
+P0028,Mansaf Spice Mix,87.27,127.0
+P0029,KOUSA BI LAHEM,14.86,428.0
+P0030,Mansaf,37.43,109.0
+P0031,Tamr Sokari,56.71,232.0
+P0032,Shorbat Adas,145.09,151.0
+P0033,Roz bel Haleeb,16.15,257.0
+P0034,Bedouin Honey,41.24,345.0
+P0035,Jallab,120.93,214.0
+P0036,Hummus,144.66,202.0
+P0037,Roz bi Laban,19.15,288.0
+P0038,Hummus,73.06,125.0
+P0039,LOUBIA BI ZEIT,196.85,270.0
+P0040,Fattoush,25.2,135.0
+P0041,Baba Ghanoush,46.07,351.0
+P0042,roz bi asal,14.91,424.0
+P0043,chai bil lahem,36.51,361.0
+P0044,Roz bi Talbeen,34.07,
+P0045,Makwa Bkhar,180.3,440.0
+P0046,Chai Bil Mandi,157.12,208.0
+P0047,Falafel,195.36,451.0
+P0048,Shorbat Adas,161.44,415.0
+P0049,Ghorayeba,172.43,418.0
+P0050,Roz bi Jauz,9.61,168.0
+P0051,Maamoul,82.94,274.0
+P0052,Hummus,192.69,55.0
+P0053,Tamr Ajwa,104.73,295.0
+P0054,Hashhash Halawa,110.0,379.0
+P0055,Chai Bil Mandi,126.52,63.0
+P0056,Qahwa Arabiya,140.96,98.0
+P0057,ROZ BI ASAL,115.98,426.0
+P0058,Tamr Ajwa,123.3,226.0
+P0059,Roz bi Asal,148.51,145.0
+P0060,Molokhiya,50.8,412.0
+P0061,Dukkan Chai,154.86,453.0
+P0062,Saleem Chai,33.78,457.0
+P0063,Tamr Ajwa,161.8,237.0
+P0064,Nabaaat Sekri,95.61,286.0
+P0065,Makroud,178.94,464.0
+P0066,Dukkan Chai,151.6,141.0
+P0067,Baba Ghanoush,144.14,171.0
+P0068,Shawerma,34.8,212.0
+P0069,Kibbeh nayyeh,80.95,484.0
+P0070,Ghorayeba,188.83,199.0
+P0071,Fatteh Subagh,160.97,249.0
+P0072,Baklawa,160.64,430.0
+P0073,Shay Bel Nenaa,120.42,42.0
+P0074,Roz bel Haleeb,68.83,172.0
+P0075,Bamia bi Lahem,167.81,383.0
+P0076,Chai Bil Naamal,191.67,
+P0077,Makroud,29.61,288.0
+P0078,Halawa,123.41,58.0
+P0079,Tamr Mariami,,346.0
+P0080,Sambousek,139.67,52.0
+P0081,Harira,196.85,177.0
+P0082,Chai Bil Naamal,170.67,54.0
+P0083,Nabaaat Sekri,89.92,494.0
+P0084,Maqluba,89.94,137.0
+P0085,Baba Ghanoush,52.55,312.0
+P0086,Knafeh,46.36,174.0
+P0087,Roz bel Laban,,43.0
+P0088,FALAFEL,130.95,405.0
+P0089,Shai Morrabi,64.71,242.0
+P0090,Roz bel Laban,142.06,128.0
+P0091,Fatteh Subagh,153.63,110.0
+P0092,Mansaf,60.18,99.0
+P0093,Loubia bi Zeit,58.49,283.0
+P0094,Mansaf,175.18,240.0
+P0095,Hummus,98.16,205.0
+P0096,Feteer Meshaltet,114.75,127.0
+P0097,Shorbat Adas,156.26,465.0
+P0098,Fattoush,16.74,50.0
+P0099,CHAI BIL MANDI,51.77,80.0
+P0100,Shai Belghora,11.36,144.0
+P0101,Roz bi Laban,159.29,411.0
+P0102,Chai Bil Naamal,56.8,30.0
+P0103,Jallab,90.63,155.0
+P0104,Saleem Chai,121.62,376.0
+P0105,Chai Bil Saffron,117.16,391.0
+P0106,Mansaf,106.2,142.0
+P0107,Saleem Chai,96.65,164.0
+INVALID,Chai Bil Karkadai,134.2,389.0
+P0109,Knafeh,155.65,422.0
+P0110,Qahwa Arabiya,106.1,255.0
+P0111,Roz bel Laban,61.17,248.0
+P0112,Falafel,65.6,
+P0113,Kousa Mahshi,27.91,255.0
+P0114,Qahwa Arabiya,196.15,282.0
+P0115,Fatteh Subagh,173.49,404.0
+P0116,Baba Ghanoush,60.15,300.0
+P0117,Zaytoun Khadrawi,72.3,278.0
+P0118,Chai Bil Karkadai,79.68,210.0
+P0119,Harira,197.74,333.0
+P0120,Bedouin Honey,69.74,432.0
+P0121,Fatteh Hummus,174.83,38.0
+P0122,Chai Bil Karkadai,20.66,345.0
+P0123,Loubia bi Zeit,100.15,316.0
+P0124,Shawerma,89.62,324.0
+P0125,Fattoush,13.97,150.0
+P0126,Qahwa Arabiya,159.54,40.0
+P0127,Saleem Chai,32.91,130.0
+P0128,Nabaaat Sekri,137.13,226.0
+P0129,Tamr Ajwa,94.08,196.0
+P0130,Maamoul,198.57,500.0
+P0130,Maamoul,198.57,500.0
+P0131,Roz bi Jauz,150.21,
+P0132,Tabbouleh,49.87,112.0
+P0133,Fatteh Hummus,137.77,49.0
+P0134,Zaytoun Khadrawi,,67.0
+P0135,Manaeesh zaatar,158.37,187.0
+P0136,Hummus,189.12,151.0
+P0137,Laban Rayeb,193.47,370.0
+P0138,Roz bel Laban,159.18,
+P0139,Chai Bil Saffron,79.3,190.0
+P0140,Roz bi Talbeen,68.96,331.0
+P0141,Fattoush,27.75,
+P0142,Falafel,31.45,343.0
+P0143,Tamr Mariami,35.13,50.0
+P0144,Baba Ghanoush,,227.0
+P0145,Chai Bil Saffron,180.83,31.0
+P0146,Kousa bi Lahem,22.88,327.0
+P0147,Falafel,158.46,424.0
+P0148,ROZ BI JAUZ,156.0,305.0
+P0149,Feteer Meshaltet,110.34,56.0
+P0149,Feteer Meshaltet,110.34,56.0
+P0150,Shorbat Adas,119.83,
+P0151,Kousa Mahshi,97.87,262.0
+P0152,Makroud,,443.0
+P0153,Shay Bel Nenaa,98.4,351.0
+P0154,Roz bi Asal,123.62,140.0
+P0155,Ghorayeba,108.46,309.0
+P0156,Chai Bil Naamal,154.95,110.0
+P0157,Molokhiya,86.12,218.0
+P0158,Chai Bil Saffron,18.09,47.0
+P0159,Molokhia,119.36,168.0
+P0160,Mansaf,183.59,147.0
+P0161,Kibbeh nayyeh,99.03,179.0
+P0162,Jallab,88.68,392.0
+P0163,Shay Bel Nenaa,133.28,14.0
+P0164,Baklawa,40.37,336.0
+P0165,Shay Bel Nenaa,108.44,232.0
+P0166,Maqluba,121.26,79.0
+P0167,Baba Ghanoush,87.68,212.0
+P0168,Tamr Ajwa,137.25,269.0
+P0169,Shai Belghora,44.86,392.0
+P0170,Tamr Sokari,88.98,272.0
+P0171,HARIRA,82.43,223.0
+P0172,Roz bi Jauz,88.71,327.0
+P0173,Knafeh,189.78,353.0
+P0174,Falafel,83.09,445.0
+P0175,Areeshe bi Jibneh,128.48,99.0
+P0176,Molokhiya,33.8,131.0
+P0177,Chai Bil Naamal,190.5,237.0
+P0178,Roz bi Laban,130.38,165.0
+P0179,Laban Rayeb,128.12,302.0
+P0180,Zaytoun Khadrawi,,146.0
+INVALID,Makroud,79.97,488.0
+P0182,Harira,41.71,256.0
+P0183,Roz bi Asal,196.57,330.0
+P0184,Zaytoun Khadrawi,123.91,469.0
+P0185,Shai Belghora,128.02,168.0
+P0186,Fatteh Hummus,193.06,76.0
+P0187,Maamoul,132.93,66.0
+P0188,Ghorayeba,69.05,359.0
+P0189,Hashhash Halawa,135.74,9.0
+P0190,Maqluba,49.18,39.0
+P0191,Mansaf Spice Mix,177.32,
+P0192,Ghorayeba,40.26,319.0
+P0193,Qahwa Arabiya,145.32,312.0
+P0194,Mansaf Spice Mix,193.29,462.0
+P0195,Zaytoun Khadrawi,59.95,270.0
+P0196,Shai Belghora,53.75,447.0
+P0197,Hashhash Halawa,60.59,139.0
+P0198,Zaabat el Banadoura,48.3,178.0
+P0199,Halawa,198.93,14.0
+P0200,Baklawa,31.83,424.0
+P0201,Dukkan Chai,6.02,131.0
+P0202,Shai Belghora,26.68,154.0
+P0203,Makroud,26.62,305.0
+P0204,Loubia bi Zeit,88.7,123.0
+P0205,Hashhash Halawa,18.2,259.0
+P0206,Roz bi Jauz,128.96,129.0
+P0207,Falafel,127.51,376.0
+P0208,Baklawa,39.14,237.0
+P0209,Molokhia,156.36,150.0
+P0210,Knafeh,105.5,278.0
+P0211,Tabbouleh,157.26,169.0
+P0212,Shai Morrabi,179.45,498.0
+P0213,Harira,161.22,40.0
+P0214,Tabbouleh,20.61,156.0
+P0215,Zaytoun Khadrawi,13.26,180.0
+P0216,Shorbat Adas,19.63,186.0
+P0217,Shay Bel Nenaa,123.48,17.0
+P0218,Halawa,115.61,347.0
+P0219,Laban Rayeb,108.24,332.0
+P0220,Manaeesh zaatar,80.46,134.0
+P0221,Makroud,183.71,62.0
+P0222,Loubia bi Zeit,22.12,432.0
+P0223,Roz bel Laban,178.81,364.0
+P0224,Halawa,28.67,71.0
+P0225,Jallab,161.71,313.0
+P0226,Loubia bi Zeit,107.51,421.0
+P0227,Laban Rayeb,137.62,449.0
+P0228,Maqluba,89.36,28.0
+P0229,Areeshe bi Jibneh,143.32,481.0
+P0230,Sambousek,112.41,155.0
+P0231,Tamr Mariami,35.07,368.0
+P0232,Makwa Bkhar,10.53,
+P0233,Maqluba,125.53,
+P0234,Fattoush,161.91,152.0
+P0235,Qahwa Arabiya,44.78,160.0
+P0236,Maamoul,30.5,287.0
+P0237,Zaytoun Khadrawi,23.88,196.0
+P0238,Roz bi Asal,68.85,160.0
+P0239,Nabaaat Sekri,65.17,
+P0240,Kibbeh nayyeh,14.49,305.0
+P0241,Mansaf Spice Mix,,68.0
+P0242,Halawa,,287.0
+P0243,Bedouin Honey,112.22,319.0
+P0244,Shai Morrabi,197.42,187.0
+P0245,Bedouin Honey,,
+P0246,Feteer Meshaltet,105.52,313.0
+P0247,Bamia bi Lahem,70.59,272.0
+P0248,Shay Bel Nenaa,136.39,298.0
+P0249,Chai Bil Lahem,,495.0
+P0250,Shawerma,118.79,322.0
+P0251,Molokhiya,11.16,56.0
+P0252,Qahwa Arabiya,85.02,471.0
+P0253,Loubia bi Zeit,45.43,339.0
+P0254,Nabaaat Sekri,71.75,395.0
+P0255,Hummus,42.49,285.0
+P0256,Maqluba,45.42,162.0
+P0257,Fatteh Hummus,28.77,194.0
+P0258,Maqluba,61.64,365.0
+P0259,Fatteh Subagh,44.4,477.0
+P0260,Fatteh Subagh,52.28,271.0
+P0261,Baklawa,24.61,2.0
+P0262,Chai Bil Naamal,176.29,102.0
+P0263,Roz bel Haleeb,22.44,273.0
+P0264,Roz bi Helawa,177.04,470.0
+P0265,Manaeesh zaatar,192.62,448.0
+P0266,Roz bi Laban,60.49,278.0
+P0267,Bedouin Honey,42.6,83.0
+P0268,Tamr Sokari,159.2,387.0
+P0269,Shai Morrabi,105.48,342.0
+P0270,Roz bi Laban,55.85,385.0
+P0271,Jallab,,354.0
+P0272,Areeshe bi Jibneh,102.99,360.0
+P0273,Tabbouleh,48.07,244.0
+P0274,Qahwa Arabiya,183.0,410.0
+P0275,Mansaf,158.54,270.0
+P0276,Roz bel Haleeb,181.06,274.0
+P0277,Kousa Mahshi,144.8,460.0
+P0278,Bedouin Honey,114.96,344.0
+P0279,Molokhiya,,37.0
+P0280,Roz bel Haleeb,18.46,16.0
+P0281,Chai Bil Naamal,130.95,456.0
+P0282,Ghorayeba,193.01,68.0
+P0283,MANSAF SPICE MIX,29.83,427.0
+P0284,Fattoush,145.22,194.0
+P0285,Baba Ghanoush,175.67,16.0
+P0286,Roz bi Talbeen,51.93,304.0
+P0287,Roz bel Haleeb,13.63,276.0
+P0288,Bedouin Honey,50.66,294.0
+P0289,Knafeh,175.87,266.0
+P0290,Tamr Mariami,182.76,218.0
+P0291,Chai Bil Naamal,158.23,213.0
+P0292,Mansaf Spice Mix,170.62,362.0
+P0293,Qahwa Arabiya,113.67,124.0
+P0294,Zaytoun Khadrawi,23.03,97.0
+P0295,Makwa Bkhar,41.69,370.0
+P0296,Roz bi Helawa,191.62,
+P0297,Mansaf,52.31,104.0
+P0298,Tabbouleh,109.06,133.0
+P0299,Harira,96.55,468.0
+P0300,Roz bi Jauz,33.45,478.0
+P0301,Sambousek,79.07,255.0
+P0302,Mansaf,193.47,251.0
+P0303,Molokhia,100.22,277.0
+P0304,BAMIA BI LAHEM,189.31,391.0
+P0305,Chai Bil Lahem,142.9,
+P0306,CHAI BIL MANDI,182.99,8.0
+P0307,tamr sokari,,274.0
+P0308,Chai Bil Saffron,188.24,470.0
+P0309,Hashhash Halawa,74.12,40.0
+P0310,Chai Bil Karkadai,138.39,334.0
+P0311,Shai Morrabi,112.78,4.0
+P0312,Chai Bil Naamal,115.34,48.0
+P0313,Roz bi Asal,178.07,23.0
+P0314,MANSAF SPICE MIX,11.42,161.0
+P0315,Feteer Meshaltet,143.98,39.0
+P0316,Kousa bi Lahem,179.82,386.0
+P0317,Zaabat el Banadoura,194.99,223.0
+P0318,Makroud,82.36,15.0
+P0319,Shawerma,188.52,348.0
+P0320,Tabbouleh,144.06,78.0
+P0321,Ghorayeba,25.78,
+P0322,Molokhia,89.04,262.0
+P0323,Zaabat el Banadoura,157.97,6.0
+P0324,Roz bi Asal,198.58,266.0
+P0325,Fattoush,33.46,141.0
+P0326,Hummus,145.58,315.0
+P0327,Shai Morrabi,125.94,168.0
+P0328,Chai Bil Naamal,31.54,485.0
+P0329,Shai Morrabi,61.83,251.0
+P0330,Baba Ghanoush,81.62,288.0
+P0331,Maqluba,190.84,362.0
+P0332,Laban Rayeb,160.15,255.0
+P0333,Feteer Meshaltet,158.87,306.0
+P0334,Roz bi Helawa,86.57,
+P0335,Shai Belghora,21.57,336.0
+P0336,Jallab,137.11,385.0
+P0337,Bamia Mashawye,104.58,297.0
+P0338,Nabaaat Sekri,119.78,176.0
+P0339,Roz bi Helawa,27.63,72.0
+P0340,Hashhash Halawa,97.85,356.0
+P0341,Loubia bi Zeit,170.59,346.0
+P0342,Hashhash Halawa,36.23,490.0
+P0343,Manaeesh zaatar,89.27,
+P0344,Ghorayeba,,142.0
+P0345,Bamia Mashawye,109.69,100.0
+P0346,Hashhash Halawa,66.11,200.0
+P0347,Makroud,136.35,470.0
+P0348,Kousa Mahshi,27.81,72.0
+P0349,Ghorayeba,99.9,470.0
+P0350,Saleem Chai,41.48,317.0
+P0350,Saleem Chai,41.48,317.0
+P0351,Molokhia,79.87,334.0
+P0352,Bamia bi Lahem,37.61,407.0
+P0353,Mansaf Spice Mix,157.24,395.0
+P0354,Kousa Mahshi,110.91,277.0
+P0355,Mansaf Spice Mix,87.91,334.0
+P0356,Zaytoun Khadrawi,173.13,443.0
+P0357,Harira,139.38,312.0
+P0358,Kibbeh nayyeh,162.06,272.0
+P0359,Loubia bi Zeit,116.68,263.0
+P0360,Mansaf,184.16,443.0
+P0361,Feteer Meshaltet,166.55,346.0
+P0362,Chai Bil Lahem,93.14,450.0
+P0363,Chai Bil Karkadai,76.97,167.0
+P0364,Zaabat el Banadoura,94.4,183.0
+P0365,Tamr Ajwa,101.47,145.0
+P0366,Saleem Chai,179.36,23.0
+P0367,Kousa Mahshi,35.81,490.0
+P0368,Roz bi Talbeen,36.0,140.0
+P0369,Chai Bil Mandi,37.28,156.0
+P0370,Zaabat el Banadoura,5.21,67.0
+P0371,Tamr Sokari,164.34,216.0
+P0372,Zaabat el Banadoura,24.97,451.0
+P0373,Roz bi Jauz,198.62,271.0
+P0374,Maamoul,127.48,210.0
+P0375,Roz bi Asal,151.73,196.0
+P0376,Falafel,21.43,307.0
+P0377,Shay Bel Nenaa,133.39,265.0
+P0378,Chai Bil Naamal,180.09,253.0
+P0379,Laban Rayeb,195.65,478.0
+P0380,Qahwa Arabiya,138.17,488.0
+P0381,Tamr Sokari,12.77,404.0
+P0382,Maqluba,141.85,274.0
+P0383,Zaabat el Banadoura,44.62,274.0
+P0384,Chai Bil Naamal,17.89,373.0
+P0385,Roz bi Laban,93.41,158.0
+P0386,Tamr Sokari,141.79,487.0
+P0387,Hummus,29.75,137.0
+P0388,Baklawa,58.04,364.0
+P0389,Bedouin Honey,102.42,188.0
+P0390,chai bil saffron,49.54,22.0
+P0391,Halawa,34.27,439.0
+P0392,Chai Bil Naamal,67.75,368.0
+P0393,Kousa Mahshi,180.88,411.0
+P0394,Roz bi Talbeen,60.05,167.0
+P0395,Tabbouleh,64.26,237.0
+P0396,Maqluba,180.59,125.0
+P0397,Mansaf Spice Mix,168.72,486.0
+P0398,Fatteh Subagh,25.27,121.0
+P0399,Feteer Meshaltet,23.14,459.0
+P0400,Nabaaat Sekri,21.56,68.0
+P0401,Roz bel Haleeb,193.02,133.0
+P0402,Bamia bi Lahem,67.02,38.0
+P0403,Bamia Mashawye,37.05,208.0
+P0404,Zaytoun Khadrawi,56.68,80.0
+P0405,Shai Belghora,,167.0
+P0406,Shai Morrabi,137.05,89.0
+P0407,fatteh subagh,23.47,406.0
+P0408,Shawerma,165.62,322.0
+P0409,Roz bi Helawa,9.25,462.0
+P0410,Kousa bi Lahem,69.65,
+P0411,Molokhiya,101.74,218.0
+P0412,Baba Ghanoush,33.98,315.0
+P0413,Roz bel Laban,22.11,214.0
+P0414,Chai Bil Lahem,111.01,
+P0415,Shorbat Adas,182.97,198.0
+P0416,Shay Bel Nenaa,156.81,241.0
+P0417,Areeshe bi Jibneh,133.09,417.0
+P0418,Shawerma,196.62,478.0
+P0419,TAMR MARIAMI,148.93,302.0
+P0420,Jallab,114.81,414.0
+P0421,Saleem Chai,,308.0
+P0421,Saleem Chai,,308.0
+P0422,Roz bi Helawa,162.26,90.0
+P0423,Shay Bel Nenaa,142.42,56.0
+P0424,Halawa,134.12,172.0
+P0425,Tamr Ajwa,192.33,89.0
+P0426,Makroud,48.53,89.0
+P0427,Manaeesh zaatar,190.01,200.0
+P0428,Manaeesh zaatar,184.6,113.0
+P0429,Baklawa,51.41,85.0
+P0430,Chai Bil Mandi,177.9,135.0
+P0431,Shorbat Adas,5.25,375.0
+P0432,Roz bi Talbeen,111.47,245.0
+P0433,SHAWERMA,19.37,150.0
+P0434,Bamia Mashawye,38.17,374.0
+P0435,Baklawa,124.66,15.0
+P0436,Tamr Ajwa,24.75,97.0
+P0437,Mansaf Spice Mix,59.9,25.0
+P0438,Roz bel Haleeb,88.38,338.0
+P0439,Kibbeh nayyeh,61.9,432.0
+P0440,Roz bi Asal,22.77,94.0
+P0441,Makwa Bkhar,95.69,137.0
+P0442,Bamia Mashawye,72.04,497.0
+P0443,Ghorayeba,86.63,443.0
+P0444,Fattoush,181.04,257.0
+P0445,Makroud,190.1,485.0
+P0446,Molokhia,,349.0
+P0447,Bamia bi Lahem,67.35,413.0
+P0448,Knafeh,106.34,6.0
+P0449,Qahwa Arabiya,34.18,298.0
+P0450,Jallab,158.22,450.0
+P0451,Saleem Chai,97.24,206.0
+P0452,Makwa Bkhar,176.4,25.0
+P0453,Shay Bel Nenaa,159.76,431.0
+P0454,Roz bi Jauz,63.59,396.0
+P0455,Chai Bil Naamal,91.13,208.0
+P0456,Molokhiya,159.34,363.0
+P0457,Roz bi Talbeen,38.88,102.0
+P0458,Roz bi Helawa,43.83,237.0
+P0459,Shay Bel Nenaa,100.31,491.0
+P0460,Areeshe bi Jibneh,55.44,46.0
+P0461,Jallab,46.79,115.0
+P0462,Shay Bel Nenaa,193.59,242.0
+P0463,Tamr Sokari,123.63,364.0
+P0464,Ghorayeba,94.5,154.0
+P0465,Bamia Mashawye,,494.0
+P0466,Shai Belghora,138.46,172.0
+P0467,Hummus,190.68,96.0
+P0468,Harira,162.96,163.0
+P0469,Tabbouleh,86.62,18.0
+P0470,Baklawa,48.36,401.0
+P0471,Fattoush,168.92,92.0
+P0472,Fatteh Hummus,153.77,348.0
+P0473,Shawerma,64.88,169.0
+P0474,Kousa Mahshi,173.95,483.0
+P0475,Kousa Mahshi,79.43,27.0
+P0476,Baklawa,116.03,234.0
+P0477,Zaabat el Banadoura,128.05,324.0
+P0478,Maqluba,154.07,390.0
+P0479,Tamr Ajwa,193.24,19.0
+P0480,ROZ BI ASAL,167.48,346.0
+P0481,Shawerma,72.15,196.0
+P0482,Makwa Bkhar,61.71,305.0
+P0483,Molokhia,180.77,96.0
+P0484,SHAY BEL NENAA,146.8,375.0
+P0485,Kousa Mahshi,131.86,
+P0486,ROZ BEL HALEEB,14.35,428.0
+P0487,Qahwa Arabiya,29.1,359.0
+P0488,Fattoush,24.69,318.0
+P0489,Bamia Mashawye,125.45,401.0
+P0490,Hummus,194.76,209.0
+P0491,Kibbeh nayyeh,98.73,6.0
+P0492,Chai Bil Mandi,190.14,38.0
+P0493,Shawerma,195.57,25.0
+P0494,Tabbouleh,136.97,59.0
+P0495,Kousa bi Lahem,131.2,457.0
+P0496,Zaabat el Banadoura,71.83,204.0
+P0497,Kousa bi Lahem,87.24,85.0
+P0498,Kousa bi Lahem,86.13,410.0
+P0499,Maqluba,10.62,429.0
+P0500,Saleem Chai,85.2,
+P0501,Chai Bil Saffron,150.01,114.0
+P0502,Hashhash Halawa,125.56,372.0
+P0503,Ghorayeba,166.16,313.0
+P0504,Kousa bi Lahem,101.69,384.0
+P0505,Roz bel Haleeb,112.35,418.0
+P0506,zaytoun khadrawi,102.2,254.0
+P0507,Makwa Bkhar,5.03,309.0
+P0508,Roz bel Laban,135.94,186.0
+P0509,Baklawa,125.85,336.0
+P0510,Chai Bil Mandi,71.56,493.0
+P0511,Bamia Mashawye,,71.0
+P0512,Hummus,41.57,201.0
+P0513,Baklawa,85.82,428.0
+P0514,NABAAAT SEKRI,191.46,255.0
+P0515,Roz bel Laban,168.57,260.0
+P0516,Manaeesh zaatar,30.03,307.0
+P0517,Qahwa Arabiya,183.6,140.0
+P0518,Harira,85.49,383.0
+P0519,Knafeh,187.42,102.0
+P0520,Roz bi Helawa,196.36,490.0
+P0521,Loubia bi Zeit,73.69,292.0
+P0522,ROZ BI ASAL,60.76,413.0
+P0523,Ghorayeba,135.7,384.0
+P0524,Feteer Meshaltet,139.67,385.0
+P0525,Makroud,149.2,380.0
+P0526,Shorbat Adas,61.09,474.0
+P0527,Chai Bil Saffron,112.66,
+P0528,Roz bi Jauz,48.98,363.0
+P0529,Shai Belghora,146.36,229.0
+P0530,Manaeesh zaatar,28.27,
+P0531,Kousa bi Lahem,69.46,79.0
+P0532,Maqluba,125.04,251.0
+P0533,Loubia bi Zeit,47.89,34.0
+P0534,Shai Morrabi,48.13,169.0
+P0535,MAKROUD,199.34,332.0
+P0536,Zaytoun Khadrawi,130.24,124.0
+P0537,Roz bi Helawa,27.11,370.0
+P0538,Halawa,104.2,151.0
+P0539,Bamia Mashawye,191.47,3.0
+P0540,Kibbeh nayyeh,87.72,275.0
+P0541,TAMR AJWA,188.25,78.0
+P0542,Makwa Bkhar,15.58,285.0
+P0543,Qahwa Arabiya,127.89,8.0
+P0543,Qahwa Arabiya,127.89,8.0
+P0544,Fatteh Hummus,152.41,358.0
+P0545,Tabbouleh,63.76,391.0
+P0546,Shay Bel Nenaa,109.03,200.0
+P0547,Chai Bil Lahem,137.07,407.0
+P0548,Tamr Sokari,113.24,2.0
+P0549,Zaabat el Banadoura,150.92,176.0
+P0550,Feteer Meshaltet,48.05,99.0
+P0551,Roz bel Haleeb,186.81,236.0
+P0552,Hummus,146.49,169.0
+P0553,Tabbouleh,180.52,230.0
+P0554,Feteer Meshaltet,76.08,219.0
+P0555,Loubia bi Zeit,90.04,68.0
+P0556,Zaytoun Khadrawi,64.57,89.0
+P0557,Molokhiya,110.03,453.0
+P0558,Kousa bi Lahem,11.08,207.0
+P0559,Hummus,199.75,396.0
+P0560,Tamr Mariami,61.74,261.0
+P0560,Tamr Mariami,61.74,261.0
+P0561,Falafel,162.28,84.0
+P0562,Jallab,133.59,376.0
+P0563,Mansaf,17.26,21.0
+P0564,Ghorayeba,93.66,
+P0565,Hashhash Halawa,58.33,296.0
+P0566,Halawa,180.15,128.0
+P0567,Maamoul,72.28,454.0
+P0568,Areeshe bi Jibneh,105.34,76.0
+P0569,Kousa Mahshi,85.85,58.0
+P0570,Areeshe bi Jibneh,85.13,65.0
+P0571,Makwa Bkhar,33.64,472.0
+P0572,Jallab,176.31,420.0
+P0573,Dukkan Chai,38.26,307.0
+P0574,Makroud,56.58,175.0
+P0575,Ghorayeba,26.17,440.0
+P0576,Shai Belghora,97.79,19.0
+P0577,ZAABAT EL BANADOURA,30.41,423.0
+P0578,Chai Bil Saffron,106.8,22.0
+P0579,Dukkan Chai,79.34,379.0
+P0580,Tamr Ajwa,98.04,439.0
+P0581,Hummus,143.28,295.0
+P0582,Kibbeh nayyeh,66.6,79.0
+P0583,Mansaf Spice Mix,76.3,348.0
+P0584,Roz bel Laban,77.19,129.0
+P0585,Shai Morrabi,171.72,382.0
+P0586,Bamia Mashawye,83.11,281.0
+P0587,Ghorayeba,6.03,74.0
+P0588,Hummus,20.61,
+P0589,Hashhash Halawa,192.89,396.0
+P0590,Sambousek,186.5,99.0
+P0591,SHAWERMA,136.43,335.0
+P0592,baba ghanoush,73.86,300.0
+P0593,Roz bi Helawa,60.48,468.0
+P0594,SHAWERMA,42.93,294.0
+P0595,Bedouin Honey,19.12,484.0
+P0596,Mansaf Spice Mix,117.1,494.0
+P0597,Baklawa,94.48,300.0
+P0598,Ghorayeba,198.87,117.0
+P0599,Mansaf Spice Mix,,127.0
+P0600,Baklawa,186.62,181.0
