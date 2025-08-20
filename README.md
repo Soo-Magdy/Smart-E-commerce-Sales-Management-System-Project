@@ -2,6 +2,7 @@
 🛍️ Smart E-Commerce Sales Management System
 A comprehensive data analysis project for an E-Commerce sales management system, designed to transform raw data into actionable strategic insights. The system was built by analyzing a complete dataset encompassing customers, products, orders, payments, and shipping.
 
+
 Key Features:
 
 Sales Performance Analysis: Track revenue, order volume, and top-selling products.
@@ -14,6 +15,7 @@ Interactive Dashboard: Visualize key findings and insights through clear and eff
 
 Predictive Model: Forecast future sales using machine learning techniques.
 
+
 Tech Stack & Tools:
 
 Programming Languages: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
@@ -23,6 +25,7 @@ Database & Querying: SQL (Designed a full ERD and executed complex queries)
 Data Visualization: Power BI / Tableau (for building interactive dashboards)
 
 Version Control & Collaboration: GitHub
+
 
 Outcomes & Deliverables:
 
