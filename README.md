@@ -1,0 +1,2 @@
+# Smart-E-commerce-Sales-Management-System-Project
+Smart E-Commerce Sales Management System A data-driven project combining SQL database design and Python analytics for E-Commerce. Includes ERD &amp; Mapping diagrams, Secure Schema, SQL queries, ETL pipeline, data cleaning, EDA, and visualizations in Jupyter Notebook. Delivers a scalable system for smarter business decisions and real-time insights.
